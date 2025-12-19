@@ -1,7 +1,5 @@
-<p>
-  divya
-  </p>
-
-<li>
-  </li>
-
+publi class 1 {
+  public static void main (String args[]) {
+    System.out.print("Hello world ");
+  }
+}
